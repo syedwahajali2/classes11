@@ -1,3 +1,4 @@
 a = 10
 b = 8000
-print(a+b)
+c = a**10
+print(c)
